@@ -1,0 +1,197 @@
+[
+  {
+    "agent_id": "risk_agent_1",
+    "entity_id": "CORP_001",
+    "risk_score": 0.3725,
+    "risk_level": "medium",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:26.523144",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.1,
+      "market_volatility": 0.15,
+      "regulatory_compliance": 0.050000000000000044,
+      "operational_risk": 0.1
+    }
+  },
+  {
+    "agent_id": "risk_agent_1",
+    "entity_id": "ENT_4766",
+    "risk_score": 0.66521313271374,
+    "risk_level": "high",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:26.530841",
+    "factors": {
+      "financial_exposure": 0.39655188625870724,
+      "credit_history": 1.3033333333333332,
+      "market_volatility": 0.754176632438157,
+      "regulatory_compliance": 0.3305260467677542,
+      "operational_risk": 0.2
+    }
+  },
+  {
+    "agent_id": "risk_agent_1",
+    "entity_id": "ENT_1348",
+    "risk_score": 0.46329666010625786,
+    "risk_level": "medium",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:28.037526",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.05333333333333334,
+      "market_volatility": 0.5207788260427207,
+      "regulatory_compliance": 0.23871707709586942,
+      "operational_risk": 0.1
+    }
+  },
+  {
+    "agent_id": "risk_agent_1",
+    "entity_id": "ENT_8682",
+    "risk_score": 0.45774150761495164,
+    "risk_level": "medium",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:29.541210",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.25666666666666665,
+      "market_volatility": 0.10205055563421561,
+      "regulatory_compliance": 0.02109819880961261,
+      "operational_risk": 0.7
+    }
+  },
+  {
+    "agent_id": "risk_agent_1",
+    "entity_id": "ENT_1747",
+    "risk_score": 0.6640040011331274,
+    "risk_level": "high",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:31.045774",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.83,
+      "market_volatility": 0.24085535466058508,
+      "regulatory_compliance": 0.38888620134006935,
+      "operational_risk": 0.5
+    }
+  },
+  {
+    "agent_id": "risk_agent_2",
+    "entity_id": "CORP_002",
+    "risk_score": 0.3813333333333333,
+    "risk_level": "medium",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:26.523144",
+    "factors": {
+      "financial_exposure": 0.75,
+      "credit_history": 0.23333333333333334,
+      "market_volatility": 0.25,
+      "regulatory_compliance": 0.12,
+      "operational_risk": 0.3
+    }
+  },
+  {
+    "agent_id": "risk_agent_2",
+    "entity_id": "ENT_6652",
+    "risk_score": 0.7985830042811943,
+    "risk_level": "critical",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:27.035149",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 1.4266666666666667,
+      "market_volatility": 0.4472685764380544,
+      "regulatory_compliance": 0.34975081551277765,
+      "operational_risk": 0.0
+    }
+  },
+  {
+    "agent_id": "risk_agent_2",
+    "entity_id": "ENT_8801",
+    "risk_score": 0.9009051185221839,
+    "risk_level": "critical",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:28.538771",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 1.3966666666666667,
+      "market_volatility": 0.7387434298600994,
+      "regulatory_compliance": 0.15993177255664992,
+      "operational_risk": 0.8
+    }
+  },
+  {
+    "agent_id": "risk_agent_2",
+    "entity_id": "ENT_7688",
+    "risk_score": 0.5691424597507033,
+    "risk_level": "high",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:30.042861",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.18,
+      "market_volatility": 0.7488998246207522,
+      "regulatory_compliance": 0.029083298843686323,
+      "operational_risk": 0.7
+    }
+  },
+  {
+    "agent_id": "risk_agent_3",
+    "entity_id": "CORP_003",
+    "risk_score": 0.6353333333333333,
+    "risk_level": "high",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:26.528978",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.5333333333333333,
+      "market_volatility": 0.45,
+      "regulatory_compliance": 0.28,
+      "operational_risk": 0.7
+    }
+  },
+  {
+    "agent_id": "risk_agent_3",
+    "entity_id": "ENT_6677",
+    "risk_score": 0.5892013718988918,
+    "risk_level": "high",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:27.536058",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.5933333333333334,
+      "market_volatility": 0.41881654264972323,
+      "regulatory_compliance": 0.1806982002374251,
+      "operational_risk": 0.3
+    }
+  },
+  {
+    "agent_id": "risk_agent_3",
+    "entity_id": "ENT_7785",
+    "risk_score": 0.5404626382456081,
+    "risk_level": "high",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:29.039931",
+    "factors": {
+      "financial_exposure": 1.0,
+      "credit_history": 0.37333333333333335,
+      "market_volatility": 0.47236321728024544,
+      "regulatory_compliance": 0.3510444097081714,
+      "operational_risk": 0.0
+    }
+  },
+  {
+    "agent_id": "risk_agent_3",
+    "entity_id": "ENT_3966",
+    "risk_score": 0.26813800052227876,
+    "risk_level": "medium",
+    "confidence": 1.0,
+    "timestamp": "2025-07-18T13:43:30.544282",
+    "factors": {
+      "financial_exposure": 0.25360429918988675,
+      "credit_history": 0,
+      "market_volatility": 0.3236437881755261,
+      "regulatory_compliance": 0.3155196875347165,
+      "operational_risk": 0.8
+    }
+  }
+]
